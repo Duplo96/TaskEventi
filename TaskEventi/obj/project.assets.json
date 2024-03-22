@@ -4399,11 +4399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\TaskEventi\\TaskEventi\\TaskEventi.csproj",
+      "projectUniqueName": "C:\\Users\\Utente.ACADEMY2024-15\\Desktop\\TaskEventi\\TaskEventi\\TaskEventi.csproj",
       "projectName": "TaskEventi",
-      "projectPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\TaskEventi\\TaskEventi\\TaskEventi.csproj",
+      "projectPath": "C:\\Users\\Utente.ACADEMY2024-15\\Desktop\\TaskEventi\\TaskEventi\\TaskEventi.csproj",
       "packagesPath": "C:\\Users\\Utente.ACADEMY2024-15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\TaskEventi\\TaskEventi\\obj\\",
+      "outputPath": "C:\\Users\\Utente.ACADEMY2024-15\\Desktop\\TaskEventi\\TaskEventi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

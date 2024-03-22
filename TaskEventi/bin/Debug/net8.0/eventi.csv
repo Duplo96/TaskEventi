@@ -1,0 +1,27 @@
+EventoId,NomeEvento,DescrizioneEvento,DataEvento,LuogoEvento,CapacitaMassima
+1,Concerto Rock,Un fantastico concerto di musica rock,12/02/2023 00:00:00,Teatro della città,500
+2,Fiera del Libro,,06/05/2024 00:00:00,Centro Fieristico,1000
+3,Pool party Titone,Festa Esclusiva,22/03/2024 17:35:24,Castelverde,100
+4,Corso di Cucina,,08/10/2024 00:00:00,Scuola di Cucina Gourmet,20
+5,Conferenza Tecnologica,Una conferenza sulle ultime innovazioni tecnologiche,05/02/2024 00:00:00,Centro Congressi,200
+6,Concerto Uno,Bello,29/04/2024 00:00:00,Roma,1000
+7,Concerto yeee,Bello,29/04/2024 00:00:00,Roma,1000
+PartecipanteId,Nominativo,Telefono,Email,Deleted,EventoRifs
+1,Mario Rossi,1234567890,mario@example.com,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+2,Paolo Bianchi,9876543210,,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+3,Anna Verdi,5551234567,anna@example.com,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+4,Giovanni Neri,3334445555,,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+5,Laura Gialli,6667778888,laura@example.com,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+7,Pippi,3472288839,pipp@email.com,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+8,Pippi,3472288839,pipp@email.com,,System.Collections.Generic.List`1[TaskEventi.Models.Evento]
+RisorseId,Quantita,Costo,Fornitore,Tipo,Deleted,EventoRif
+1,100,500,00,Fornitore A,cibo,,1
+2,50,300,00,Fornitore B,bevanda,,2
+3,20,100,00,Fornitore C,attrezzatura,,3
+4,200,800,00,Fornitore D,cibo,,4
+5,150,600,00,Fornitore E,bevanda,,5
+6,80,400,00,Fornitore F,attrezzatura,,1
+7,120,700,00,Fornitore G,cibo,,2
+8,30,200,00,Fornitore H,bevanda,,3
+9,15,150,00,Fornitore I,attrezzatura,,4
+10,180,900,00,Fornitore J,cibo,,5
